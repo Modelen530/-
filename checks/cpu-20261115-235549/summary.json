@@ -1,0 +1,18 @@
+{
+  "status": "completed",
+  "step": 8,
+  "tokens": 1024,
+  "train_seconds": 0.029838499991456047,
+  "checkpoint_seconds": 0.04897150004399009,
+  "wall_seconds": 1.385689699993236,
+  "endpoint_scores": {
+    "loss": 3.695494532585144,
+    "perplexity": 40.26548025711399,
+    "bits_per_character": 5.331471635792865
+  },
+  "best_val_loss": 3.695494532585144,
+  "tokens_per_second": 34318.079001733066,
+  "peak_memory_bytes": null,
+  "budget": "tokens",
+  "output": "D:\\\u684c\u9762\\\u673a\u5668\u5b66\u4e60\\project\\DDA5001-26Fall\\p1\\checks\\cpu-20261115-235549"
+}

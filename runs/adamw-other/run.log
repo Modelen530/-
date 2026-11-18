@@ -1,0 +1,69 @@
+Starting adamw; config.json and environment.json record this run.
+step 0: tokens=0 train_s=0.000 val_loss=4.3351
+Checkpoint best.pt: writing and syncing data
+Checkpoint best.pt: clean-cache eviction hint accepted=True
+Checkpoint best.pt: committing filename
+Checkpoint best.pt: committed in 1.242s
+step 500: tokens=9216000 train_s=125.503 val_loss=1.7152
+Checkpoint best.pt: writing and syncing data
+Checkpoint best.pt: clean-cache eviction hint accepted=True
+Checkpoint best.pt: committing filename
+Checkpoint best.pt: committed in 3.928s
+Checkpoint last.pt: writing and syncing data
+Checkpoint last.pt: clean-cache eviction hint accepted=True
+Checkpoint last.pt: committing filename
+Checkpoint last.pt: committed in 3.395s
+step 1000: tokens=18432000 train_s=249.861 val_loss=1.5532
+Checkpoint best.pt: writing and syncing data
+Checkpoint best.pt: clean-cache eviction hint accepted=True
+Checkpoint best.pt: committing filename
+Checkpoint best.pt: committed in 3.510s
+Checkpoint last.pt: writing and syncing data
+Checkpoint last.pt: clean-cache eviction hint accepted=True
+Checkpoint last.pt: committing filename
+Checkpoint last.pt: committed in 3.771s
+step 1500: tokens=27648000 train_s=374.322 val_loss=1.6987
+Checkpoint last.pt: writing and syncing data
+Checkpoint last.pt: clean-cache eviction hint accepted=True
+Checkpoint last.pt: committing filename
+Checkpoint last.pt: committed in 3.681s
+step 2000: tokens=36864000 train_s=498.968 val_loss=2.1590
+Checkpoint last.pt: writing and syncing data
+Checkpoint last.pt: clean-cache eviction hint accepted=True
+Checkpoint last.pt: committing filename
+Checkpoint last.pt: committed in 3.316s
+step 2500: tokens=46080000 train_s=623.443 val_loss=2.6804
+Checkpoint last.pt: writing and syncing data
+Checkpoint last.pt: clean-cache eviction hint accepted=True
+Checkpoint last.pt: committing filename
+Checkpoint last.pt: committed in 3.365s
+step 3000: tokens=55296000 train_s=747.936 val_loss=3.1251
+Checkpoint last.pt: writing and syncing data
+Checkpoint last.pt: clean-cache eviction hint accepted=True
+Checkpoint last.pt: committing filename
+Checkpoint last.pt: committed in 3.172s
+step 3500: tokens=64512000 train_s=872.455 val_loss=3.3876
+Checkpoint last.pt: writing and syncing data
+Checkpoint last.pt: clean-cache eviction hint accepted=True
+Checkpoint last.pt: committing filename
+Checkpoint last.pt: committed in 3.660s
+step 4000: tokens=73728000 train_s=997.053 val_loss=3.5754
+Checkpoint last.pt: writing and syncing data
+Checkpoint last.pt: clean-cache eviction hint accepted=True
+Checkpoint last.pt: committing filename
+Checkpoint last.pt: committed in 3.447s
+step 4500: tokens=82944000 train_s=1121.572 val_loss=3.7219
+Checkpoint last.pt: writing and syncing data
+Checkpoint last.pt: clean-cache eviction hint accepted=True
+Checkpoint last.pt: committing filename
+Checkpoint last.pt: committed in 3.623s
+step 5000: tokens=92160000 train_s=1246.125 val_loss=3.8421
+Checkpoint last.pt: writing and syncing data
+Checkpoint last.pt: clean-cache eviction hint accepted=True
+Checkpoint last.pt: committing filename
+Checkpoint last.pt: committed in 3.455s
+Checkpoint last.pt: writing and syncing data
+Checkpoint last.pt: clean-cache eviction hint accepted=True
+Checkpoint last.pt: committing filename
+Checkpoint last.pt: committed in 3.580s
+Completed; endpoint saved as last.pt and summary.json.
